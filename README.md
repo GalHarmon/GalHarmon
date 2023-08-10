@@ -20,6 +20,7 @@ Hi there 👋
 <h1>I'm Gal Harmon,</h1>
 <br>
 👩‍💻 Product Manager
+<br>
 👩‍🎓 B.Sc. in Industrial Engineering and Management at Ben Gurion University
 Specialising in Artificial Intelligence and Intelligent information systems (and loving it!)
 <br>
